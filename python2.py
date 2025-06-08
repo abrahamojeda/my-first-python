@@ -1,0 +1,2 @@
+mgs = "Stuff"
+print(mgs)
