@@ -1,2 +1,3 @@
 msg = "Mi primer python"
-print(msg)
+msg2 = " en GitHub"
+print(msg + msg2)
