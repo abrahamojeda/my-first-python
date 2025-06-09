@@ -1,2 +1,1 @@
-mgs = "Stuff"
-print(mgs)
+#nothing
