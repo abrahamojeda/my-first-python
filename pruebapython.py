@@ -1,4 +1,7 @@
-msg = "Message from Python script"
-print(msg)
-# This is a simple Python script that prints a message
-# It can be used to test the Python environment in a remote setup
+def my_funtion():
+    a = 5
+    b = 3
+    if a > b: print(a) #good practice
+    else: print(b)
+        
+print(my_funtion())
